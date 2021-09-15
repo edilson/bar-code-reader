@@ -10,7 +10,7 @@ Esse programa foi criado com o intuito de ler informações de linhas digitávei
 
 ### Passos para rodar o projeto
 
-1 - Instalar as dependências: `yarn`
+1 - Instalar as dependências: `yarn`  
 2 - Rodar o servidor: `yarn dev`
 
 ### Para rodar os testes
